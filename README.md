@@ -1,5 +1,7 @@
 # Point Of Sale
 
+## A basic POS system to demonstrate the required functionality specified for the SiteLogiq backend devoloper application
+
 ### Assumtions
 
 - As per the specification, a User Interface is outside the scope of the excersice. All required functionality is demonstrated through unit testing
